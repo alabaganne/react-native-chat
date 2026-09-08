@@ -1,4 +1,6 @@
-This is a [Next.js](https://github.com/expo/expo) + [Gluestack-ui](https://ui.gluestack.io/) project template bootstrapped with [`create-expo-app`](https://docs.expo.dev/get-started/create-a-project/).
+# React Native Chat
+
+A React Native and Firebase chat application using Expo and Gluestack UI. Originally scaffolded with create-expo-app.
 
 ## Getting Started
 
